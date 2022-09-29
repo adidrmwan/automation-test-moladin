@@ -33,7 +33,7 @@ Features:
 * To execute Website Test cases
   > npm run test-web
 
-## Documentation
+## Documentations
 * [Puppetter](https://pptr.dev/)
 * [Jest](https://jestjs.io/)
 * [Mocha](https://mochajs.org/)

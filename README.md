@@ -28,10 +28,16 @@ Features:
 
 ## Running the Test
 * To execute API Test cases
+  * Run all API tests
   > npm run test-api
+  * Run specific API test
+  > npm run test-api {filepath}
 
 * To execute Website Test cases
+  * Run all Web tests
   > npm run test-web
+  * Run specific Web test
+  > npm run test-web {filepath}
 
 ## Documentations
 * [Puppetter](https://pptr.dev/)

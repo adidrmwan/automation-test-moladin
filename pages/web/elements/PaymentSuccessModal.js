@@ -1,0 +1,1 @@
+export const payment_success_title = '//div[contains(text(), "Payment successful")]'
